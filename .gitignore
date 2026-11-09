@@ -1,0 +1,4 @@
+build/
+*.jar
+.env
+.DS_Store
